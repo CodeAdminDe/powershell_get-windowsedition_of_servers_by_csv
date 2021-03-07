@@ -1,7 +1,7 @@
 # powershell_get-windowsedition_of_servers_by_csv
 
-Simple Script to get the running windows edtion (e.g. for Clients: Home, Professional, etc... // e.g. for Servers: ServerDatacenter, etc...). 
-Systems need to be accessable via Powershell. 
+Simple Script to get the running windows edition (e.g. for clients: Home, Professional, etc... // e.g. for servers: ServerDatacenter, etc...). 
+Systems need to be accessable via PowerShell. 
 
 ## Usage
 
